@@ -22,4 +22,6 @@ title='menu'.upper()
 print(title.center(20, '$'))
 #some methods returning boolean data
 print('hell'.startswith('k'))
+#boolean data
+
 
