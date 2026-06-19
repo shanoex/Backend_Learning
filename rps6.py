@@ -65,5 +65,5 @@ def rps():
 
 rock_paper_scissor=rps()
 
-if __name__ == "rps6":
+if __name__ == "__main__":
     rock_paper_scissor()
